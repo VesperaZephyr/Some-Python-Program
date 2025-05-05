@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}需求分析}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}功能需求}{2}{subsection.1.1}%
+\contentsline {section}{\numberline {2}设计思路}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}架构设计}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}关键技术}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}核心代码说明}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}计算线程（CalculationThread）}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}帮助系统（HelpDialog）}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}主窗口程序（QMainWindow）}{5}{subsection.3.3}%
+\contentsline {section}{\numberline {4}运行截图}{11}{section.4}%
+\contentsline {section}{\numberline {5}总结与改进方向}{15}{section.5}%
+\contentsline {subsection}{\numberline {5.1}项目成果}{15}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}缺点与改进方向}{16}{subsection.5.2}%
